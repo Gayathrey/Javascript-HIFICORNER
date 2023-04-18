@@ -1,0 +1,207 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+        <link rel="stylesheet" href="museo-sans-rounded-webfont/style.css">
+        <link rel="stylesheet" href="/css/shop_category_list.css">
+        <title>Shop catergory list</title>
+    </head>
+    <body>
+        <div class="wrapper">
+            <header class="header">
+                <div class="header-contact"> 
+                    <img class="header-contact-logo" src="/images/logo-hifi-227x260.png" alt="logo">
+                    <div class="header-contact-search-info">
+                        <form class="header-contact-search-form">
+                            <input class="header-contact-search-field" type="text" placeholder="Search entire store here.." name="search">
+                            <button class="header-contact-search-button" type="submit"><i class="fa fa-search"></i></button>
+                        </form>
+                        <div class="test">
+                            <i class="header-contact-icon fas fa-user test"></i>
+                            <p>ACCOUNT</p>
+                        </div>
+                        <div class="test">
+                            <i class="header-contact-icon fas fa-cart-plus test"></i>
+                            <p>CART</p>
+                        </div>
+                        <i class="header-contact-icon fas fa-map-marker-alt"></i>
+                        <i class="header-contact-icon fas fa-phone-alt"></i>
+                        <i class="header-contact-icon fas fa-envelope"></i> 
+                    </div> <!-- end of header-contact-search-info-->
+                </div>
+                <nav class="header-nav">
+                    <ul class="header-nav-list">
+                    <li><a  href="frontpage.html">HOME</a></li>
+                    <li><a href="brand.html">BRANDS</a></li>
+                    <li><a href="shopfront.html"class="active">SHOP</a></li>
+                    </ul>
+                </nav>    
+            </header>  
+            <main class="main-shop-categori-list">
+                
+                <div class="shop-categori-list__top-link">
+                    <a href="frontpage.html">HOME </a>
+                    <p class="category-link"></p>
+                </div>
+                
+                <div class="category-main">
+
+                    <aside class="shop-category-list__sidebar-left">
+                        <a class="dropdown-btn category-link">Amplifiers</a>
+                            <div class="dropdown-container">
+                                <a href="shop_category_list.html?category=Int-amplifer">Integrated Amplifiers</a>
+                                <a href="shop_category_list.html?category=Power-amplifer">Power Amplifiers</a>
+                                <a href="shop_category_list.html?category=Preamplifer">Preamplifiers</a>
+                                <a href="shop_category_list.html?category=Tube-amplifer">Tube Amplifers</a>
+                            </div>
+                        <a class="dropdown-btn" href="shop_category_list.html?category=Speaker">Speakers</a>  
+                        <a class="dropdown-btn" href="shop_category_list.html?category=Turntable">Turntables</a>
+                        <a class="dropdown-btn" href="shop_category_list.html?category=Cd-player">CD Players</a>
+                        <a class="dropdown-btn" href="shop_category_list.html?category=Dvd-player">Dvd Players</a>
+                    </aside>
+
+                    <article>      
+                        <h1 class="category-header"></h1>            
+                        <div class="toolbars"> <!---grå bjælke-->   
+                            <div class="toolbar-sorter">
+                                <label class="sorter-label-1" for="sorter">SORT BY:</label>
+                                <select id="sorter" class="toolbar-sorter-options">
+                                    <option value="price">Price</option>
+                                    <option value="name">Name</option>
+                                    <option value="brand">Brand</option>
+                                    <option value="item">Items</option>
+                                </select>
+                                <a href="#" class="toolbar-sorter-arrow"><i class="fas fa-long-arrow-alt-up"></i></a>       
+                                <div class="toolbar-sorter-view">
+                                    <label class="sorter-label-2" for="view">VIEW AS:</label>
+                                    <a href="#"><i class="fas fa-th-large"></i></a>           
+                                    <a href="#"><i class="fas fa-bars"></i></a>
+                                </div>
+                            </div><!--end of toolbar-sorter-->
+
+                            <div class="toolbar-items-limiter">
+                                <div class="toolbar-items-limiter-modes">
+                                    <!--<p class="toolbar-amount" id="toolbar-amount">
+                                    <span class="toolbar-number">20</span> Item(s)</p>-->
+                                    <p class="toolbar-item-amount">20 </p>
+                                    <p class="toolbar-item-amount">Item(s)</p>
+                                </div>
+                                <div class="field limiter">
+                                    <label for="limiter" class="label">
+                                        <span>SHOW</span>
+                                    </label>
+                                </div>
+                                <div class="control">
+                                        <select id="limiter">
+                                            <option value="10">10</option>
+                                            <option value="20">20</option>
+                                            <option value="30">30</option>
+                                            <option value="50">50</option>
+                                        </select>
+                                </div>
+                            </div>
+                        </div><!---end of grå bjælke-->  
+                        <div id="item_type" class="grid-container products">
+                        </div>
+                        <div class="toolbars"> <!---grå bjælke-->   
+                            <div class="toolbar-sorter">
+                                <label class="sorter-label-1" for="sorter">SORT BY:</label>
+                                <select id="sorter" class="toolbar-sorter-options">
+                                    <option value="price">Price</option>
+                                    <option value="name">Name</option>
+                                    <option value="brand">Brand</option>
+                                    <option value="item">Items</option>
+                                </select>
+                                <a href="#" class="toolbar-sorter-arrow"><i class="fas fa-long-arrow-alt-up"></i></a>       
+                            
+                                <div class="toolbar-sorter-view">
+                                    <label class="sorter-label-2" for="view">VIEW AS:</label>
+                                    <a href="#"><i class="fas fa-th-large"></i></a>           
+                                    <a href="#"><i class="fas fa-bars"></i></a>
+                                </div>
+                            </div><!--end of toolbar-sorter-->
+
+                            <div class="toolbar-items-limiter">
+                                <div class="toolbar-items-limiter-modes">
+                                    <!--<p class="toolbar-amount" id="toolbar-amount">
+                                    <span class="toolbar-number">20</span> Item(s)</p>-->
+                                    <p class="toolbar-item-amount">20</p>
+                                    <p class="toolbar-item-amount">Item(s)</p>
+                                </div>
+                                <div class="field limiter">
+                                    <label for="limiter" class="label">
+                                        <span>SHOW</span>
+                                    </label>
+                                </div>
+                                <div class="control">
+                                        <select id="limiter">
+                                            <option value="10">10</option>
+                                            <option value="20">20</option>
+                                            <option value="30">30</option>
+                                            <option value="50">50</option>
+                                        </select>
+                                </div>
+                            </div>
+                        </div><!---end of grå bjælke-->  
+                    </article><!--end of midterste container-->
+
+                    <div class="shop-category-list__sidebar-right"><!--her skal der være den højre sidebar-->
+                        <aside class="sidebar-right__container">
+                            <h3 class="sidebar-right__header">Manufacturer</h3>
+                            <div>
+                                <ul class="sidebar-right__links">
+                                    <li><a href="shop_category_list.html?manufacturer=Creek">Creek</a></li>
+                                    <li><a href="shop_category_list.html?manufacturer=Exposure">Exposure</a></li>
+                                    <li><a href="shop_category_list.html?manufacturer=Parasound">Parasound</a></li>
+                                    <li><a href="shop_category_list.html?manufacturer=Manley">Manley</a></li>
+                                    <li><a href="shop_category_list.html?manufacturer=Project">Project</a></li>
+                                    <li><a href="shop_category_list.html?manufacturer=Bösendorfer">Bösendorfer</a></li>
+                                    <li><a href="shop_category_list.html?manufacturer=Epos">Epos</a></li>
+                                    <li><a href="shop_category_list.html?manufacturer=Harbeth">Harbeth</a></li>
+                                    <li><a href="shop_category_list.html?manufacturer=Jolina">Jolina</a></li>
+                                </ul>
+                            </div>
+                        </aside>
+                    </div>
+
+                </div><!---categori-main-->
+
+                <!--her skal der være den højre sidebar-->
+                <div class="shop-category-list__sidebar-right">
+                </div>
+
+                </main>
+                <footer class="footer">
+                    <div class="footer-address">
+                        <p class="footer-address__p">Hi-Fi Corner</p>
+                        <p class="footer-address__p">Edinburgh 2 Joppa Road EH15 2EU</p>
+                        <p class="footer-address__p">Falkirk 44 Cow Wynd FK1 1PU</p> 
+                    </div>
+                    <div class="footer-policy">
+                        <a href="#" class="footer-policy__a">Returns & Refunds | Privacy Policy</a>
+                    </div>
+                    <div class="footer-payment">                        
+                        <i class="fab fa-cc-visa footer-payment__icon"></i>
+                        <i class="fab fa-cc-mastercard footer-payment__icon"></i>
+                        <i class="fab fa-cc-amex footer-payment__icon"></i>
+                        <i class="fab fa-cc-jcb footer-payment__icon"></i>
+                        <i class="fab fa-cc-paypal footer-payment__icon"></i>                         
+                    </div>
+                    <div class="footer-social">
+                        <a href="http://www.facebook.com/" class="footer-social__a"><i class="fab fa-facebook-f footer-social__icon"></i></a>
+                        <a href="http://www.youtube.com/" class="footer-social__a"><i class="fab fa-youtube footer-social__icon"></i></a>
+                        <a href="http://www.twitter.com/" class="footer-social__a"><i class="fab fa-twitter footer-social__icon"></i></a>
+                        <a href="http://www.instagram.com/" class="footer-social__a"><i class="fab fa-instagram footer-social__icon"></i></a>                                                      
+                    </div>            
+                </footer>
+        </div><!---end of wrapper div-->
+        <script>
+
+        </script>
+        <!--<script src="/javascript/shop_category_list.js"></script>-->
+        <script src="./javascript/shop_category_list-sidebar.js"></script>
+    </body>
+    </html>

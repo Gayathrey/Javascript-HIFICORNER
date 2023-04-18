@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/frontpage.css">
+    <link rel="stylesheet" href="museo-sans-rounded-webfont/style.css">
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.3/tiny-slider.css">
+    <link rel="stylesheet" href="/css/slider.css">
+    <title>HIFI frontpage</title>
+</head>
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <div class="header-contact"> 
+                    <i class="fas fa-map-marker-alt"></i>
+                    <i class="fas fa-phone test"></i>
+                    <i class="fas fa-envelope"></i>
+            </div>
+            <nav class="header-nav">
+                <ul class="header-nav-list">
+                <li><a class="active" href="frontpage.html">HOME</a></li>
+                <li><a href="brand.html">BRANDS</a></li>
+                <li><a href="shopfront.html">SHOP</a></li>
+                </ul>
+            </nav>    
+        </header> 
+        <main class="main-frontpage">
+            <article class="main-frontpage__hifi-logo">
+                <img class="main-frontpage__hifi-logo__img" src="images/logo-hifi-227x260.png">
+            </article>
+            <article class="main-frontpage__showroom">
+                <h1 class="main-frontpage__showroom__h1">OUR EDINBURGH SHOWROOM HAS NOW MOVED TO STUNNING NEW PREMISES ON JOPPA ROAD</h1>
+            </article>
+            <article class="main-frontpage__product-slider">
+                <section class="my-slider">
+                    <div>
+                        <div id="slide1" class="slide">
+                            <h1 class="slide__item-h1">PROJECT DEBUT</h1>
+                            <img class="slide__item-img" src="Produktbilleder/pladespillere/Pro_ject_Debut_3_bl.jpg">
+                        </div>
+                    </div>
+                    <div>
+                        <div id="slide2" class="slide">
+                            <h1 class="slide__item-h1">CREEK CLASSIC</h1>
+                            <img class="slide__item-img" src="Produktbilleder/cd_afspillere/creek_classic_cd.jpg">
+                        </div>
+                    </div>
+                    <div>
+                        <div id="slide3" class="slide">
+                            <h1 class="slide__item-h1">HARBETH</h1>
+                            <img class="slide__item-img" src="Produktbilleder/hojtalere/harbeth_p3es2.jpg">
+                        </div>
+                    </div>
+                </section>
+            </article>
+            <article class="main-frontpage__some-icons">
+                <section class="main-frontpage__some-facebook">
+                    <i class="main-frontpage__some-facebook-i fab fa-facebook"></i>
+                </section>
+                <section class="main-frontpage__some-blogger">
+                    <i class="main-frontpage__some-blogger-i fab fa-blogger"></i>
+                </section>
+                <section class="main-frontpage__some-twitter">
+                    <i class="main-frontpage__some-twitter-i fab fa-twitter-square"></i>
+                </section>
+            </article>
+
+            <article class="main-frontpage__links">
+                <section class="main-frontpage__links-history">
+                    <a class="main-frontpage__links-history-a" href="#">HISTORY</a>
+                    <p class="main-frontpage__links-history-p">EXSTABLISHED IN THE LATE 1960S, OUR FAMILY OWNED BUSINESS IS BASED IN EDINBURGH AND FALKIRK, SERVICING CUSTOMERS ACROSS THE UK.</p>
+                </section>
+                <section class="main-frontpage__links-news">
+                    <a class="main-frontpage__links-news-a" href="#">NEWS</a>
+                    <p class="main-frontpage__links-news-p">CHECK OUT OUR LATEST NEWS STORIES FOR ALL THE UP TO DATE HI-FI CORNER PRODUCTS AND LAUNCHES.</p>
+                </section>
+                <section class="main-frontpage__links-shop">
+                    <a class="main-frontpage__links-shop-a" href="#">SHOP</a>
+                    <p class="main-frontpage__links-shop-p">HAVE A LOOK IN OUR ONLINE SHOP FOR GREAT PRODUCTS AND DEALS.</p>
+                </section>
+            </article>
+        </main>
+
+        <footer class="footer">
+                     
+            <div class="footer-address">
+                <p>Hi-Fi Corner</p>
+                <p>Edinburgh 2 Joppa Road EH15 2EU</p>
+                <p>Falkirk 44 Cow Wynd FK1 1PU</p> 
+            </div>
+
+            <div class="footer-returns-privacy">
+                <a href="#">Returns & Refunds | Privacy Policy</a> <!--style="color: white;"-->
+            </div>
+
+            <div class="footer-payment">                        
+                <i class="fab fa-cc-visa"></i> <!--style="color: white;"-->
+                <i class="fab fa-cc-mastercard"></i>
+                <i class="fab fa-cc-amex"></i>
+                <i class="fab fa-cc-jcb"></i>
+                <i class="fab fa-cc-paypal"></i>                         
+            </div>
+
+            <div class="footer-socialcontainer">
+                <a href="http://www.facebook.com/"><i class="fab fa-facebook-f"></i></a> <!--style="color: white;"-->
+                <a href="http://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+                <a href="http://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                <a href="http://www.instagram.com/"><i class="fab fa-instagram"></i></a>                                                      
+            </div>            
+        </footer>
+    </div><!--end of wrapper div-->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+    <script>
+        var slider = tns({
+            container: '.my-slider',
+            items: 1,
+            slideBy: 'page',
+            autoplay: true,
+            speed: 300,
+                autoplayButtonOutput: false,
+                controlsText: ["<", ">"]
+        });
+    </script>
+</body>
+</html>
+<!-- ⇦ ⇨ -->

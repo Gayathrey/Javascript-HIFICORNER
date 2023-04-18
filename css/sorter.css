@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+.toolbars{
+    background-color: grey;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sorter-label-2{
+    padding-left: 30px;
+}
+
+div, span{
+    display: inline-block;
+}
+
+.toolbar-number{
+    padding-left: 45em;
+}
+
+.label{
+    padding-left: 10px;
+}

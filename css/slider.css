@@ -1,0 +1,36 @@
+.tns-outer{
+    position: relative;
+}
+.tns-controls{
+    position:absolute;
+    z-index: 10;
+    display:flex;
+    justify-content: space-between;
+    width:100%;
+    top:40%;
+}
+.tns-nav{
+    display: none;
+}
+.slide {
+    display: flex;
+    padding: 4em;
+    min-height: 300px;
+    align-items: center;
+    justify-content: center;
+    background-size:cover;
+    background-color: #fff;
+}
+
+
+
+
+/*#slide1{
+    background-image: url(/Produktbilleder/forforstaerkere/parasound_classic7100.jpg);
+}
+#slide2{
+    background-image: url(/Produktbilleder/effektforstaerkere/parasound_haloa23.jpg);
+}
+#slide3{
+    background-image: url(/Produktbilleder/dvdafspillere/creek_classic.jpg);
+}*/

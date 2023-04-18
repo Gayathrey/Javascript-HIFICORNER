@@ -1,0 +1,247 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+  background-color: #000;
+  font-family: 'Museo Sans Rounded 100';
+  font-style: normal;
+  font-weight: normal;  
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.wrapper {
+  max-width: 1400px;
+  margin:0 auto;
+}
+
+
+.main{
+  background-color: #fff;
+  padding: 180px 1em 1em 1em
+}
+
+.main-home-link {
+  text-decoration: none;
+  color: #a39161;
+  text-align: left;
+  margin: 0;
+  padding-right:0.3em;
+}
+
+.main-home-link-p {
+  text-align: left;
+  margin: 0;
+}
+
+.main-home-link-container {
+  display: flex;
+}
+
+.single-product-img{
+  display:flex;
+  width: 100%;
+  padding:10em;
+  border:1px solid #dddfe0;
+  margin-bottom: 2em;
+}
+
+.single-product-description {
+  text-align: left;
+  width: 100%;
+  padding:0.5em 0em;
+}
+
+.single-product-description td {
+  text-align: right;
+  padding: 0.5em 0em;
+}
+
+.single-product-container{
+  display: flex;
+  padding: 1em;
+  gap:2em;
+}
+
+.single-product-price-container {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 1em;
+}
+
+.single-product-container__text-container_h1{
+  color:#a39161;
+  font-size: x-large;
+  text-transform: uppercase;
+  padding-bottom: 1em;
+}
+
+.single-product-price-h3{
+  font-size: small;
+  padding:0em 0em;
+}
+
+.single-product-price-h3, .single-product-price-p{
+  margin:0;
+  color:#a39161;
+}
+
+.single-product-price-p {
+  font-size: 1.2em;
+}
+
+.single-product-container__image-container {
+  flex: 1;
+}
+
+.single-product-container__text-container{
+  flex:1;
+}
+
+.single-product-container__text-container_p {
+  padding-bottom: 3em;
+}
+
+.single-product-additional-info{
+  width:100%;
+}
+
+.single-product-additional-info, .single-product-additional-info th, .single-product-additional-info td {
+  border:1px solid #acafb1;
+  text-align: left;
+  border-collapse: collapse;
+  padding:0.5em 1em;
+  
+}
+
+.single-product-additional-info th{
+  background-color: #dde5e9;
+  width:40%;
+}
+
+.header{
+    max-width: 1400px;
+    width: 100%;
+    position: fixed;
+    top: 0em;
+    z-index: 12;
+    font-family: 'Museo Sans Rounded 300';
+    font-style: normal;
+    /*font-weight: normal;*/
+    src: local('Museo Sans Rounded 300'), url('MuseoSansRounded300.woff') format('woff');
+  }
+
+  .header-contact-logo {
+      width: 4%;
+      margin: 0;
+      margin-right: auto;
+  }
+
+  .header-contact {
+    background-color: rgba(0, 0, 0, 0.918);
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 0.5em;
+  }
+
+  .header-contact-search-info {
+    padding: 0.6em 0.6em 0em 0.6em;
+    margin: 0;
+    display: flex;
+    text-align: center;
+    align-items: center;
+  }
+
+  .header-contact-search-form{
+    width: 350px;
+    background-color: #fff;
+  }
+
+  .header-contact-search-field {
+    padding: 0.6em;
+    width: 300px;
+    border: none;
+  }
+
+  .header-contact-search-button {
+    padding: 0.6em;
+    border: none;
+    background-color: #fff;
+  }
+
+  .header-contact-icon {
+    padding: 0.6em;
+    font-size: 1.2em;
+    color: #fff;
+  }
+
+  .header-nav {
+    background-color: black;
+    font-size: 1em;
+    padding: 1em;
+  }
+
+  .header-nav-list {
+    list-style-type: none;
+    display: flex;
+    gap:2em;
+    justify-content: center;
+    padding:1em 0em;
+  }
+
+  .header-nav-list li a {
+    text-decoration: none;
+    display: block;
+    color: #FFF;
+    text-align: center;
+  }
+
+  .header-nav a.active{
+    color: rgb(141, 114, 78);
+}
+
+.test{
+  display:flex;
+  flex:1;
+  color:#fff;
+  align-items: center;
+  padding:0.3em;
+}
+
+  footer {
+    background-color: #a39161;
+    display: flex;
+    flex:1;
+    align-items: center;
+    gap:2em;
+    padding: 1em 3em;
+  }
+
+.footer-payment{
+    display: flex;
+    flex:1;
+    justify-content: flex-end;
+    gap:0.5em;
+    font-size: x-large;
+    color:#fff;
+}
+
+.footer-address{
+    color:rgb(20, 20, 20);
+    font-size: small;
+}
+
+.footer-social{
+    gap:0.5em;
+    font-size: large;
+}
+
+.footer-social__a, .footer-policy__a{
+    color:#fff;
+}

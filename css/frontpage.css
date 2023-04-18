@@ -1,0 +1,244 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: #000;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.wrapper {
+    max-width: 1400px;
+    margin:0 auto;
+}
+
+.test{
+  transform: rotateY(180deg);
+}
+
+.main-frontpage__hifi-logo {
+    background: url("/images/speaker_frontpage.jpg"), rgba(105, 86, 86, 0.973);
+    background-blend-mode: overlay;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-frontpage__hifi-logo__img {
+    padding: 15em;
+}
+
+.main-frontpage__showroom {
+    background: url("/images/pattern_frontpage.jpg"), rgba(207, 205, 188, 0.719);
+    background-blend-mode: overlay;
+    height: 300px;
+}
+
+.main-frontpage__showroom__h1{
+    color: #FFF;
+    text-align: center;
+    padding: 2em;
+    font-size: 3em;
+    font-family: 'Museo Sans Rounded 500';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Museo Sans Rounded 500'), url('MuseoSansRounded500.woff') format('woff');
+}
+
+.main-frontpage__some-icons {
+    display: flex;
+    height: 450px;
+    
+}
+
+.main-frontpage__some-facebook {
+    background: url("/images/amp_frontpage.jpg"), rgba(49, 49, 46, 0.589);
+    background-blend-mode: overlay;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.main-frontpage__some-blogger {
+    background: url("/images/headphones_frontpage.jpg"), rgba(44, 44, 42, 0.589);
+    background-blend-mode: overlay;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.main-frontpage__some-twitter{
+    background: url("/images/turntable_frontpage.jpg"), rgba(44, 44, 42, 0.589);
+    background-blend-mode: overlay;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.main-frontpage__some-facebook-i, .main-frontpage__some-blogger-i, .main-frontpage__some-twitter-i {
+    color: #fff;
+    font-size: 14em;
+    align-self: center;
+}
+
+.main-frontpage__links-history-a, .main-frontpage__links-news-a, .main-frontpage__links-shop-a {
+    color: rgb(209, 187, 88);
+    text-decoration: none;
+    border: #eee solid 1px;
+    padding: 0.5em 1em;
+    font-weight: bolder;
+}
+
+.main-frontpage__links {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 3em;
+    padding: 3em;
+    text-align: center;
+    background-color: #000;
+    font-family: 'Museo Sans Rounded 300';
+    font-style: normal;
+    height: 300px;
+    /*font-weight: normal;*/
+    src: local('Museo Sans Rounded 300'), url('MuseoSansRounded300.woff') format('woff');
+}
+
+.main-frontpage__links-history-p, .main-frontpage__links-news-p, .main-frontpage__links-shop-p {
+    color: #eee;
+    padding: 2em;
+}
+
+.main-frontpage__product-slider {
+    /*height: 800px;
+    background-color: #FFF;
+    display: flex;
+    align-items: center;*/
+    font-family: 'Museo Sans Rounded 300';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Museo Sans Rounded 300'), url('MuseoSansRounded300.woff') format('woff');
+}
+
+.my-slider {
+    height: 600px;
+    background-color: #FFF;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+.slide__item-h1 {
+    color: #a39161;
+    font-size: 3em;
+    padding: 0em 2em 6em 0em;
+}
+
+.slide__item-img {
+    width: 40%;
+}
+
+button {
+    background-color: rgba(255, 255, 255, 0);
+    color: #5c3f3fd5;
+    padding: 0.3em;
+    border: none;
+    outline: none;
+    font-size: 4em;
+    font-family: 'Museo Sans Rounded 900';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Museo Sans Rounded 900'), url('MuseoSansRounded900.woff') format('woff');
+}
+
+/*---------------------header&footer----------------*/
+  .header{
+    max-width: 1400px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 12;
+    font-family: 'Museo Sans Rounded 300';
+    font-style: normal;
+    height: 300px;
+    /*font-weight: normal;*/
+    src: local('Museo Sans Rounded 300'), url('MuseoSansRounded300.woff') format('woff');
+  }
+
+  .header-contact {
+    background-color: rgba(0, 0, 0, 0.616);
+    text-align: end;
+    display: flex;
+    justify-content: flex-end;
+    padding: 1em;
+    gap: 1em;
+  }
+
+  .header-contact i {
+    padding: 0.2em;
+    font-size: 1.2em;
+    color: #fff;
+  }
+
+  .header-nav {
+    background-color: black;
+    font-size: 1em;
+    padding: 1em;
+  }
+
+  .header-nav-list {
+    list-style-type: none;
+    display: flex;
+    gap:2em;
+    justify-content: center;
+    padding:1em 0em;
+  }
+
+  .header-nav-list li a {
+    text-decoration: none;
+    display: block;
+    color: #FFF;
+    text-align: center;
+  }
+
+  .header-nav a.active{
+    color: rgb(141, 114, 78);
+}
+
+  .footer {
+    background-color: #a39161;
+    display: flex;
+    flex:1;
+    align-items: center;
+    gap:2em;
+    padding: 1em 3em;
+  }
+
+.footer-payment{
+    display:flex;
+    flex:1;
+    justify-content: flex-end;
+    gap:0.5em;
+    font-size: x-large;
+    color:#fff;
+}
+
+.footer-address{
+    color:rgb(20, 20, 20);
+    font-size: small;
+}
+
+.footer-socialcontainer{
+    gap:0.5em;
+    font-size: large;
+}
+
+.footer-socialcontainer a, .footer-returns-privacy a{
+    color:#fff;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <link rel="stylesheet" href="sorter.css">
+    <title>Document</title>
+</head>
+<body>
+    
+    <div class="toolbars">
+        
+        <div class="toolbar-sorter sorter">
+            <label class="sorter-label-1" for="sorter">SORT BY:</label>
+            <select id="sorter" class="sorter options">
+                <option value="price">Price</option>
+                <option value="name">Name</option>
+                <option value="brand">Brand</option>
+                <option value="item">Items</option>
+            </select>
+            <a href="#"><i class="fas fa-long-arrow-alt-up"></i></a>       
+        </div>
+
+        <div>
+            <div class="toolbar-sorter view">
+                <label class="sorter-label-2" for="view">VIEW AS:</label>
+                <a href="#"><i class="fas fa-th-large"></i></a>           
+                <a href="#"><i class="fas fa-bars"></i></a>
+            </div>
+
+        <div class="modes">
+            <p class="toolbar-amount" id="toolbar-amount">
+            <span class="toolbar-number">20</span> Item(s)</p>
+        </div>
+
+        <div class="field limiter">
+            <label for="limiter" class="label">
+                <span>SHOW</span>
+            </label>
+            <div class="control">
+                <select id="limiter">
+                    <option value="10">10</option>
+                    <option value="20">20</option>
+                    <option value="30">30</option>
+                    <option value="50">50</option>
+                </select>
+            </div>
+
+        </div>
+
+    </div>
+    
+</body>
+</html>

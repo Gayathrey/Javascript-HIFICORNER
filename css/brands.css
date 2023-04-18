@@ -1,0 +1,160 @@
+@charset "utf-8";
+
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+img{
+    max-width: 100%;
+    height:auto;
+}
+
+body{
+    background-color: black;  
+}
+
+.wrapper{
+    max-width: 1400px;
+    font-family: 'Museo Sans Rounded 100';
+    font-style: normal;
+    font-weight: normal;  
+    margin:0 auto;
+}
+
+.brands-main{
+    color:#fff;
+    margin-top:0em;
+}
+
+.brands__logo{
+    display:flex;
+    flex:1;
+    justify-content: space-between;
+    align-items: center;
+
+    background:url(../images/background1.jpg),#0000009a;
+    background-blend-mode: overlay;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 6em 2em;
+    height: 600px;
+}
+
+.color{
+    color:rgb(141, 114, 78);
+}
+
+.brands-container__list_p{
+    word-spacing: 1.5em;
+}
+
+.brands-container{
+    display:flex;
+
+    background:url(../images/background2.jpg),#0000009f;
+    background-blend-mode: overlay;
+    background-position: center;
+    /*padding: 2em 0em;*/
+    border:1.5em solid #fff;
+    margin: 0em 2em 0em 2em;
+}
+
+.brands-container__list, .brands-container__info{
+    padding: 2em;
+}
+
+.brands-container__list{
+    padding: 2em 6em 1em 2em;
+    background-image: linear-gradient(to right,  #000, rgba(65, 63, 63, 0.726));
+}
+
+.brands-container__info_p{
+    padding: 0.5em 0em;
+}
+
+/* header */
+
+.header{
+    max-width: 1400px;
+    position: fixed;
+    width: 100%;
+    top:0;
+}
+
+.header-contact{
+    background-color: rgb(0, 0, 0);
+    display:flex;
+    justify-content: flex-end;
+    gap:1em;
+    padding:1em;
+}
+
+.header-contact__icon{
+    padding: 0.2em;
+    color:#fff;
+    font-size: 1.2em;
+}
+
+.header-nav {
+    padding: 1em;
+    font-size: 1em;
+    background-color: rgb(0, 0, 0);
+}
+
+.header-nav__list {
+    list-style: none;
+    display:flex;
+    flex:1;
+    gap:2em;
+    justify-content: center;
+    padding:1em;
+  }
+
+.header-nav__list_a {
+    text-decoration: none;
+    color: #FFF;
+  }
+
+.header-nav__list_a-active{
+      color: rgb(141, 114, 78);
+      text-decoration: none;
+  }
+
+  /* footer */
+
+footer {
+    background-color: #a39161;
+    display: flex;
+    flex:1;
+    align-items: center;
+    gap:2em;
+    padding: 1em 3em;
+  }
+
+.footer-payment{
+    display: flex;
+    flex:1;
+    justify-content: flex-end;
+    gap:0.5em;
+    font-size: x-large;
+    color:#fff;
+}
+
+.footer-address{
+    color:rgb(20, 20, 20);
+    font-size: small;
+}
+
+.footer-social{
+    gap:0.5em;
+    font-size: large;
+}
+
+.footer-social__a, .footer-policy__a{
+    color:#fff;
+}
+
+

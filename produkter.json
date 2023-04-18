@@ -1,0 +1,723 @@
+[
+    {
+        "itemnumber": "1",
+        "product": "Cd-player",
+        "name": "Creek Classic",
+        "price": "£296",
+        "description": {
+            "text": "The latest incarnation of Creek's mid-price CD player design is an evolution of the tried and trusted CD50Mk2. Adhering nicely to the 'if it ain't broke, don't fix it' school of design, the Classic incorporates a few choice modifications over its predecessor in order to keep things competitive.",
+            "picture": "./Produktbilleder/cd_afspillere/creek_classic_cd.jpg" 
+        },
+        "manufacturer": "Creek" ,
+        "manufacturerlink":"test" ,
+        "freeWarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+
+    },
+    {
+        "itemnumber": "2",
+        "product": "Cd-player",
+        "name": "Creek Destiny",
+        "price": "£325",
+        "description": {
+            "text": "Creek Destiny is one of the most well rounded & consistent players with all music styles. It looks very good and has features like display dimmer. Music is clear & uncolored sounding organic.",
+            "picture": "./Produktbilleder/cd_afspillere/creek_Destiny_CD.jpg" 
+        },
+        "manufacturer": "Creek" ,
+        "manufacturerlink":"" ,
+        "freeWarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "3",
+        "product": "Cd-player",
+        "name": "Creek evolution",
+        "price": "£475",
+        "description": {
+            "text": "Treble is lovely, clear and open with lots of detail, and the midrange seems highly neutral. Stereo imaging is excellent, with width well delineated and depth unusually specific.",
+            "picture": "./Produktbilleder/cd_afspillere/creek_evo_cd.jpg"
+        },
+        "manufacturer": "Creek" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "4",
+        "product": "Cd-player",
+        "name": "Exposure 2010S",
+        "price": "£654",
+        "description": {
+            "text": "Exposure is a hardcore company from Great Britain. It is a fairy small brand, housed in the country behind the Channel, which designs and manufactures its devices there, in Portslade, East Sussex County.",
+            "picture": "./Produktbilleder/cd_afspillere/Exp_2010S_CD.gif"
+        },
+        "manufacturer": "Exposure" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "5",
+        "product": "Dvd-player",
+        "name": "Creek Classic",
+        "price": "£423",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/dvdafspillere/creek_classic.jpg"
+        },
+        "manufacturer": "Creek" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "6",
+        "product": "Dvd-player",
+        "name": "Exposure 2010S",
+        "price": "£432",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/dvdafspillere/exposure_2010S.jpg"
+        },
+        "manufacturer": "Exposure" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "7",
+        "product": "Dvd-player",
+        "name": "Parasound d200",
+        "price": "£543",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/dvdafspillere/parasound_d200.jpg"
+        },
+        "manufacturer": "Parasound" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "8",
+        "product": "Dvd-player",
+        "name": "Parasound Halo D 3",
+        "price": "£423",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/dvdafspillere/parasound_halod3.jpg"
+        },
+        "manufacturer": "Parasound" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "9",
+        "product": "Power-amplifer",
+        "name": "Manley mahi",
+        "price": "£556",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/effektforstaerkere/manley_mahi.jpg"
+        },
+        "manufacturer": "Manley" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "10",
+        "product":"Power-amplifer",
+        "name": "Manley neo classic 300b",
+        "price": "£645",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/effektforstaerkere/manley_neoclassic300b.jpg"
+        },
+        "manufacturer": "Manley" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "11",
+        "product":"Power-amplifer",
+        "name": "Manely snapper",
+        "price": "£632",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/effektforstaerkere/manley_snapper.jpg"
+        },
+        "manufacturer": "Manley" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "12",
+        "product": "Power-amplifer",
+        "name": "Parasound halo a23",
+        "price": "£486",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/effektforstaerkere/parasound_haloa23.jpg"
+        },
+        "manufacturer": "Parasound" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "13",
+        "product": "Power-amplifer",
+        "name": "Creek OBH 22",
+        "price": "£432",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg"
+        },
+        "manufacturer": "Creek" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "14",
+        "product": "Preamplifer",
+        "name": "Parasound classic 7100",
+        "price": "£534",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/forforstaerkere/parasound_classic7100.jpg"
+        },
+        "manufacturer": "Parasound" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "15",
+        "product":"Preamplifer",
+        "name": "Parasound halo p3",
+        "price": "£644",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/forforstaerkere/parasound_halop3.jpg"
+        },
+        "manufacturer": "Parasound" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "16",
+        "product": "Preamplifer",
+        "name": "Project Prebox",
+        "price": "£533",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/forforstaerkere/project_prebox.jpg"
+        },
+        "manufacturer": "Project" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "17",
+        "product": "Speaker",
+        "name": "Bösendorfer vcs wall",
+        "price": "£875",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/hojtalere/boesendorfer_vcs_wall.gif"
+        },
+        "manufacturer": "Bösendorfer" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "18",
+        "product": "Speaker",
+        "name": "Epos m5",
+        "price": "£754",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/hojtalere/epos_m5.gif"
+        },
+        "manufacturer": "Epos" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "19",
+        "product": "Speaker",
+        "name": "Harbeth hl7 es2",
+        "price": "£647",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/hojtalere/harbeth_hl7es2.jpg"
+        },
+        "manufacturer": "Harbeth" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "20",
+        "product": "Speaker",
+        "name": "Harbeth monitor 30",
+        "price": "£745",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/hojtalere/harbeth_monitor30.jpg"
+        },
+        "manufacturer": "Harbeth" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "21",
+        "product": "Speaker",
+        "name": "Harbeth p3 es2",
+        "price": "£756",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/hojtalere/harbeth_p3es2.jpg"
+        },
+        "manufacturer": "Harbeth" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "22",
+        "product": "Int-amplifer",
+        "name": "Creek a50i",
+        "price": "£644",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/int_forstaerkere/creek_a50I.jpg"
+        },
+        "manufacturer": "Creek" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "23",
+        "product": "Int-amplifer",
+        "name": "Creek Classic 5350 SE",
+        "price": "£645",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/int_forstaerkere/creek_classic5350SE.jpg"
+        },
+        "manufacturer": "Creek" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "24",
+        "product": "Int-amplifer",
+        "name": "Creek destiny amp",
+        "price": "£756",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/int_forstaerkere/creek_destinyamp.jpg"
+        },
+        "manufacturer": "Creek" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "25",
+        "product": "Int-amplifer",
+        "name": "Manley snapper",
+        "price": "£645",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/int_forstaerkere/manley_snapper.jpg"
+        },
+        "manufacturer": "Manley" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "26",
+        "product": "Int-amplifer",
+        "name": "Manley Stingray",
+        "price": "£759",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/int_forstaerkere/manley_stingray.jpg"
+        },
+        "manufacturer": "Manley" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "27",
+        "product": "Turntable",
+        "name": "Project Debut 3 Blue",
+        "price": "£643",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/pladespillere/Pro_ject_Debut_3_bl.jpg"
+        },
+        "manufacturer": "Project" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "28",
+        "product": "Turntable",
+        "name": "Project Debut 3 Red",
+        "price": "£643",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/pladespillere/Pro_ject_Debut_III_red_1.jpg"
+        },
+        "manufacturer": "Project" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "29",
+        "product": "Turntable",
+        "name": "Project Debut 3 Yellow",
+        "price": "£643",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/pladespillere/Pro_ject_Debut_III_yellow_1.jpg"
+        },
+        "manufacturer": "Project" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "30",
+        "product": "Turntable",
+        "name": "Project RPM 5",
+        "price": "£723",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/pladespillere/Pro_ject_rpm_5.jpg"
+        },
+        "manufacturer": "Project" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "31",
+        "product": "Turntable",
+        "name": "Project RPM 10",
+        "price": "£767",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/pladespillere/Pro_ject_rpm10.jpg"
+        },
+        "manufacturer": "Project" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "32",
+        "product": "Tube-amplifer",
+        "name": "Jolida JD 102b",
+        "price": "£642",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/roer_forstaerkere/jolida_JD102b.jpg"
+        },
+        "manufacturer": "Jolida" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "33",
+        "product": "Tube-amplifer",
+        "name": "Jolida JD 202a",
+        "price": "£675",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/roer_forstaerkere/jolida_JD202a.jpg"
+        },
+        "manufacturer": "Jolida" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "34",
+        "product": "Tube-amplifer",
+        "name": "Jolida JD 300B",
+        "price": "£812",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/roer_forstaerkere/jolida_JD300b.jpg"
+        },
+        "manufacturer": "Jolida" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "35",
+        "product": "Tube-amplifer",
+        "name": "Jolida jd 302b",
+        "price": "£823",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/roer_forstaerkere/jolida_JD302b.jpg"
+        },
+        "manufacturer": "Jolida" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    },
+    {
+        "itemnumber": "36",
+        "product": "Tube-amplifer",
+        "name": "Jolida JD 502b",
+        "price": "£845",
+        "description": {
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia libero odio cumque, laudantium totam incidunt voluptatibus harum repellat. Doloribus assumenda dicta inventore itaque iure saepe eum sit modi reiciendis est! Ab amet voluptatem laboriosam.",
+            "picture": "./Produktbilleder/roer_forstaerkere/jolida_JD502b.jpg"
+        },
+        "manufacturer": "Jolida" ,
+        "manufacturerlink":"" ,
+        "freewarrenty": "3 years",
+        "deliverycharge": "Free",
+        "deliverytime": "1 - 5 Working Days",
+        "cardsurcharges": "No",
+        "poweroutput": "45 W/ 60W" ,
+        "frequencyresponse": "10 Hz - 70kHz " ,
+        "totalharmonicdistortion": "0.08%" ,
+        "dampingfactor": "100"
+    }
+]
